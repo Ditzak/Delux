@@ -10,6 +10,8 @@ It's because that was a part of the assignment we had.
 
 
 The program i used was unity. It's a really good tool if you know what you are doing.
+It can be a bit confusing if you have poor experience with unity.
 
 
 And here is a preview of what it looks like inside the game
+![ezgif-3-2100807692](https://cloud.githubusercontent.com/assets/28100937/25703032/244a5fda-30d4-11e7-80b5-38f965f3dce3.gif)
